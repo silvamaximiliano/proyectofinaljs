@@ -1,0 +1,61 @@
+[
+    {
+        "id": "Gorra",
+        "titulo": "Gorra",
+        "imagen": "./img/1.jpg",
+        "precio": 1000
+    },
+    {
+        "id": "Zapas nike negras",
+        "titulo": "Zapas nike negra",
+        "imagen": "./img/2.jpg",
+        "precio": 1000
+    },
+    {
+        "id": "Pipa nike roja",
+        "titulo": "reed nike",
+        "imagen": "./img/3.jpg",
+        "precio": 1000
+    },
+    {
+        "id": "Pipa gris",
+        "titulo": "pipa gris",
+        "imagen": "./img/4.jpg",
+        "precio": 1000
+    },
+    {
+        "id": "Multi color",
+        "titulo": "multi color",
+        "imagen": "./img/5.jpg",
+        "precio": 1000
+    },
+    {
+        "id": "Roja y negra",
+        "titulo": "Roja y negra",
+        "imagen": "./img/6.jpg",
+        "precio": 1000
+    },
+    {
+        "id": "Gris y Negra",
+        "titulo": "Gris y Negra",
+        "imagen": "./img/7.jpg",
+        "precio": 1000
+    },
+    {
+        "id": "Negra Elegante",
+        "titulo": "Negra Elegante",
+        "imagen": "./img/8.jpg",
+        "precio": 1000
+    },
+    
+
+    
+
+    
+    {
+        "id": "Camuflada Red",
+        "titulo": "Camuflada Red",
+        "imagen": "./img/9.jpg",
+        "precio": 10000
+    }
+]
